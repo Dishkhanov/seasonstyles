@@ -1,1 +1,2 @@
-# seasonstyles
+# seasonal-styles
+A JavaScript Example
